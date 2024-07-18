@@ -1,4 +1,4 @@
-Reconstructing the ancestral character state using the most recent DSCAM tree.
+Reconstructing the ancestral character state using the most recent DSCAM tree. Read figure3.R for more details regarding the code.
 
 Using the dscamrun2 file
 	Create a csv file detailing the sociality trait of each species.
