@@ -1,0 +1,16 @@
+Steps to make a chronogram
+
+-Date the tree at 401 mya, available at timetree.org
+	-Using the DSCAM run2
+-make the chronogram, map the trees on top of each using figtree
+	-using the updated parameters tree and the mitochondrion tree
+	-remove species that have conflicting topology
+	-each individual tree is a specific color
+		dscam - red
+		mitochondria - blue
+-make a cophenetic heatmap
+	-make a matrix of branch lengths csv
+	-copy those values into a excel file and subtract those values from each other
+		dscam-mitochondria
+	-make the colors the same colors as the chronogram
+	-combine the diagrams to make one diagram
