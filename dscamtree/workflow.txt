@@ -1,0 +1,28 @@
+Making a workflow for running the new phylogenetic tree using BEAST2
+This is the second tree we ran.
+
+-Used the same parameters from the defaults from BEAST1 (manually changed them to reflect that.)
+##Parameters
+
+##Site Model
+#GTR + Gamma + Invariance
+#Gamma catagory count=4
+#Shape=0.5
+#Proportional Invariant=0.5
+
+##Clock Model
+#Strict clock
+
+##Prior Model
+#Coalescent Constant Population
+
+-Increased the generations from 2,000,000 to 50,000,000
+-Used 10-25_mafft_miss-rem.nex alignment for the tree
+---66 species, 4779 nucleotide positions
+
+2. After the tree is generated run tree through tracer, and check posterior values
+3. Compare node heights to mitochondrion
+--make new chronogram, new heatmap, other analysis as well. 
+
+
+
