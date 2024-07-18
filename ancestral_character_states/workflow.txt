@@ -1,0 +1,8 @@
+Reconstructing the ancestral character state using the most recent DSCAM tree.
+
+Using the dscamrun2 file
+	Create a csv file detailing the sociality trait of each species.
+		name of file:
+	
+	Run the simulation 100 times
+	Pie charts show the outcomes of the simulations ran based of the values for the tips
