@@ -1,0 +1,607 @@
+﻿Nucleotide,Group,phyloP score
+300,Ants,0
+301,Ants,0.097
+302,Ants,-0.024
+303,Ants,-0.266
+304,Ants,0.14
+305,Ants,0.386
+306,Ants,0.095
+307,Ants,0.095
+308,Ants,-0.667
+309,Ants,0
+310,Ants,0
+311,Ants,1.012
+312,Ants,0
+313,Ants,0
+314,Ants,-1.405
+315,Ants,1.221
+316,Ants,0.519
+317,Ants,1.475
+318,Ants,0
+319,Ants,0
+320,Ants,-0.998
+321,Ants,-2.234
+322,Ants,-1.444
+323,Ants,-0.402
+324,Ants,0
+325,Ants,0.14
+326,Ants,-0.309
+327,Ants,-1.453
+328,Ants,0.344
+329,Ants,-1.353
+330,Ants,-2.322
+331,Ants,0.252
+332,Ants,0.554
+333,Ants,0.282
+334,Ants,0.14
+335,Ants,-0.328
+336,Ants,-2.501
+337,Ants,0.293
+338,Ants,-0.346
+339,Ants,-2.145
+340,Ants,0.808
+341,Ants,-0.043
+342,Ants,-1.138
+343,Ants,0.561
+344,Ants,-0.639
+345,Ants,0.141
+346,Ants,0.14
+347,Ants,-0.364
+348,Ants,0.143
+349,Ants,0.306
+350,Ants,-0.156
+351,Ants,0
+352,Ants,0.338
+353,Ants,-1.075
+354,Ants,0.219
+355,Ants,0
+356,Ants,1.15
+357,Ants,-1.809
+358,Ants,0.285
+359,Ants,-1.32
+360,Ants,0
+361,Ants,0
+362,Ants,1.196
+363,Ants,0
+364,Ants,0
+365,Ants,-0.8
+366,Ants,-0.754
+367,Ants,-2.311
+368,Ants,-0.813
+369,Ants,0.095
+370,Ants,0.182
+371,Ants,-1.546
+372,Ants,0.366
+373,Ants,0.095
+374,Ants,-0.396
+375,Ants,0.805
+376,Ants,0
+377,Ants,0.108
+378,Ants,0
+379,Ants,0
+380,Ants,0.601
+381,Ants,0
+382,Ants,0
+383,Ants,0.389
+384,Ants,0.49
+385,Ants,-1.817
+386,Ants,0.823
+387,Ants,0.399
+388,Ants,0
+389,Ants,-1.344
+390,Ants,0
+391,Ants,0
+392,Ants,-0.687
+393,Ants,0.504
+394,Ants,0.523
+395,Ants,-0.38
+396,Ants,0
+397,Ants,-4.44
+398,Ants,-0.007
+399,Ants,-3.274
+400,Ants,0
+300,Wasps,0
+301,Wasps,0.047
+302,Wasps,0.357
+303,Wasps,0.218
+304,Wasps,0.067
+305,Wasps,0.172
+306,Wasps,0.046
+307,Wasps,0.046
+308,Wasps,0.252
+309,Wasps,0
+310,Wasps,0
+311,Wasps,-4.776
+312,Wasps,0
+313,Wasps,0
+314,Wasps,-2.617
+315,Wasps,-2.204
+316,Wasps,-2.656
+317,Wasps,-1.523
+318,Wasps,0
+319,Wasps,0
+320,Wasps,-0.898
+321,Wasps,-1.084
+322,Wasps,-0.488
+323,Wasps,-2.313
+324,Wasps,0
+325,Wasps,-2.136
+326,Wasps,-2.315
+327,Wasps,-2.301
+328,Wasps,0.155
+329,Wasps,-0.794
+330,Wasps,-2.233
+331,Wasps,-1.51
+332,Wasps,-0.659
+333,Wasps,-1.474
+334,Wasps,0.067
+335,Wasps,-1.293
+336,Wasps,-1.162
+337,Wasps,0.134
+338,Wasps,-4.196
+339,Wasps,-3.388
+340,Wasps,-1.998
+341,Wasps,-1.888
+342,Wasps,-4.342
+343,Wasps,-2.496
+344,Wasps,-1.359
+345,Wasps,-2.151
+346,Wasps,0.067
+347,Wasps,-1.502
+348,Wasps,0.069
+349,Wasps,-1.383
+350,Wasps,-2.463
+351,Wasps,0
+352,Wasps,-1.253
+353,Wasps,-0.202
+354,Wasps,0.102
+355,Wasps,0
+356,Wasps,-0.363
+357,Wasps,-2.487
+358,Wasps,0.13
+359,Wasps,-1.391
+360,Wasps,0
+361,Wasps,0
+362,Wasps,-2.819
+363,Wasps,0
+364,Wasps,0
+365,Wasps,-1.847
+366,Wasps,-0.506
+367,Wasps,-0.837
+368,Wasps,-1.57
+369,Wasps,0.046
+370,Wasps,0.086
+371,Wasps,-1.055
+372,Wasps,0.164
+373,Wasps,0.046
+374,Wasps,-0.824
+375,Wasps,-0.6
+376,Wasps,0
+377,Wasps,-1.623
+378,Wasps,0
+379,Wasps,0
+380,Wasps,-1.486
+381,Wasps,0
+382,Wasps,0
+383,Wasps,-1.141
+384,Wasps,-1.013
+385,Wasps,-3.335
+386,Wasps,-0.655
+387,Wasps,-1.121
+388,Wasps,0
+389,Wasps,-1.366
+390,Wasps,0
+391,Wasps,0
+392,Wasps,-0.055
+393,Wasps,-0.992
+394,Wasps,-0.984
+395,Wasps,-1.099
+396,Wasps,0
+397,Wasps,-1.509
+398,Wasps,0.173
+399,Wasps,-1.41
+400,Wasps,0
+300,Bees,0
+301,Bees,0
+302,Bees,0.043
+303,Bees,0.029
+304,Bees,0.01
+305,Bees,0.023
+306,Bees,0
+307,Bees,0
+308,Bees,0.033
+309,Bees,0
+310,Bees,0
+311,Bees,0.05
+312,Bees,0
+313,Bees,0
+314,Bees,0.062
+315,Bees,0.06
+316,Bees,0.03
+317,Bees,0.074
+318,Bees,0
+319,Bees,0
+320,Bees,0.03
+321,Bees,0.025
+322,Bees,0.052
+323,Bees,0.029
+324,Bees,0
+325,Bees,0.01
+326,Bees,0.029
+327,Bees,0.034
+328,Bees,0.021
+329,Bees,0.074
+330,Bees,0.039
+331,Bees,0.016
+332,Bees,0.079
+333,Bees,0.018
+334,Bees,0.01
+335,Bees,0.049
+336,Bees,0.023
+337,Bees,0.019
+338,Bees,0.076
+339,Bees,0.048
+340,Bees,0.042
+341,Bees,0.076
+342,Bees,0.04
+343,Bees,0.032
+344,Bees,0.135
+345,Bees,0.01
+346,Bees,0.01
+347,Bees,0.045
+348,Bees,0.01
+349,Bees,0.019
+350,Bees,0.032
+351,Bees,0
+352,Bees,0.021
+353,Bees,0.075
+354,Bees,0.015
+355,Bees,0
+356,Bees,0.057
+357,Bees,0.038
+358,Bees,0.018
+359,Bees,0.083
+360,Bees,0
+361,Bees,0
+362,Bees,0.056
+363,Bees,0
+364,Bees,0
+365,Bees,0.036
+366,Bees,0.045
+367,Bees,0.037
+368,Bees,0.116
+369,Bees,0.007
+370,Bees,0.012
+371,Bees,0.077
+372,Bees,0.022
+373,Bees,0
+374,Bees,0.074
+375,Bees,0.033
+376,Bees,0
+377,Bees,0.048
+378,Bees,0
+379,Bees,0
+380,Bees,0.032
+381,Bees,0
+382,Bees,0
+383,Bees,0.024
+384,Bees,0.028
+385,Bees,0.057
+386,Bees,0.043
+387,Bees,0.024
+388,Bees,0
+389,Bees,0.062
+390,Bees,0
+391,Bees,0
+392,Bees,0.097
+393,Bees,0.029
+394,Bees,0.03
+395,Bees,0.055
+396,Bees,0
+397,Bees,0.018
+398,Bees,0.045
+399,Bees,0.018
+400,Bees,0
+300,Solitary Bees,0
+301,Solitary Bees,0.073
+302,Solitary Bees,0.564
+303,Solitary Bees,0.355
+304,Solitary Bees,0.105
+305,Solitary Bees,0.278
+306,Solitary Bees,0.071
+307,Solitary Bees,0.072
+308,Solitary Bees,0.411
+309,Solitary Bees,0
+310,Solitary Bees,0
+311,Solitary Bees,-3.325
+312,Solitary Bees,0
+313,Solitary Bees,0
+314,Solitary Bees,0.894
+315,Solitary Bees,-1.489
+316,Solitary Bees,-0.815
+317,Solitary Bees,-1.725
+318,Solitary Bees,0
+319,Solitary Bees,0
+320,Solitary Bees,-0.572
+321,Solitary Bees,0.296
+322,Solitary Bees,0.733
+323,Solitary Bees,-0.289
+324,Solitary Bees,0
+325,Solitary Bees,0.105
+326,Solitary Bees,-0.545
+327,Solitary Bees,-0.673
+328,Solitary Bees,0.249
+329,Solitary Bees,-1.497
+330,Solitary Bees,-2.699
+331,Solitary Bees,0.185
+332,Solitary Bees,-0.931
+333,Solitary Bees,0.206
+334,Solitary Bees,0.105
+335,Solitary Bees,-2.393
+336,Solitary Bees,0.269
+337,Solitary Bees,0.214
+338,Solitary Bees,0.975
+339,Solitary Bees,-1.28
+340,Solitary Bees,-3.436
+341,Solitary Bees,-0.886
+342,Solitary Bees,-1.306
+343,Solitary Bees,-4.027
+344,Solitary Bees,-1.161
+345,Solitary Bees,0.105
+346,Solitary Bees,0.105
+347,Solitary Bees,-1.341
+348,Solitary Bees,0.107
+349,Solitary Bees,0.223
+350,Solitary Bees,0.398
+351,Solitary Bees,0
+352,Solitary Bees,-2.327
+353,Solitary Bees,0.556
+354,Solitary Bees,0.162
+355,Solitary Bees,0
+356,Solitary Bees,-2.165
+357,Solitary Bees,0.485
+358,Solitary Bees,0.208
+359,Solitary Bees,-0.388
+360,Solitary Bees,0
+361,Solitary Bees,0
+362,Solitary Bees,-0.183
+363,Solitary Bees,0
+364,Solitary Bees,0
+365,Solitary Bees,-0.483
+366,Solitary Bees,-1.042
+367,Solitary Bees,-2.629
+368,Solitary Bees,-1.2
+369,Solitary Bees,0.072
+370,Solitary Bees,0.135
+371,Solitary Bees,-0.055
+372,Solitary Bees,0.264
+373,Solitary Bees,0.072
+374,Solitary Bees,-0.448
+375,Solitary Bees,-0.193
+376,Solitary Bees,0
+377,Solitary Bees,-0.378
+378,Solitary Bees,0
+379,Solitary Bees,0
+380,Solitary Bees,-0.586
+381,Solitary Bees,0
+382,Solitary Bees,0
+383,Solitary Bees,0.28
+384,Solitary Bees,-1.845
+385,Solitary Bees,-1.807
+386,Solitary Bees,0.563
+387,Solitary Bees,-2.126
+388,Solitary Bees,0
+389,Solitary Bees,-1.48
+390,Solitary Bees,0
+391,Solitary Bees,0
+392,Solitary Bees,-1.242
+393,Solitary Bees,-2.431
+394,Solitary Bees,-2.536
+395,Solitary Bees,0.73
+396,Solitary Bees,0
+397,Solitary Bees,0.209
+398,Solitary Bees,-1.401
+399,Solitary Bees,0.203
+400,Solitary Bees,0
+300,Parasitic Wasps,0
+301,Parasitic Wasps,0.121
+302,Parasitic Wasps,0.794
+303,Parasitic Wasps,0.676
+304,Parasitic Wasps,0.176
+305,Parasitic Wasps,-1.289
+306,Parasitic Wasps,0.118
+307,Parasitic Wasps,0.118
+308,Parasitic Wasps,-1.023
+309,Parasitic Wasps,0
+310,Parasitic Wasps,0
+311,Parasitic Wasps,-0.006
+312,Parasitic Wasps,0
+313,Parasitic Wasps,0
+314,Parasitic Wasps,-0.68
+315,Parasitic Wasps,-0.52
+316,Parasitic Wasps,0.661
+317,Parasitic Wasps,0.233
+318,Parasitic Wasps,0
+319,Parasitic Wasps,0
+320,Parasitic Wasps,-0.003
+321,Parasitic Wasps,-0.585
+322,Parasitic Wasps,-0.715
+323,Parasitic Wasps,-0.884
+324,Parasitic Wasps,0
+325,Parasitic Wasps,-1.306
+326,Parasitic Wasps,0.635
+327,Parasitic Wasps,-0.504
+328,Parasitic Wasps,0.442
+329,Parasitic Wasps,0.348
+330,Parasitic Wasps,-0.922
+331,Parasitic Wasps,-0.691
+332,Parasitic Wasps,-0.349
+333,Parasitic Wasps,-0.646
+334,Parasitic Wasps,0.177
+335,Parasitic Wasps,0.081
+336,Parasitic Wasps,-0.585
+337,Parasitic Wasps,0.374
+338,Parasitic Wasps,0.028
+339,Parasitic Wasps,-0.321
+340,Parasitic Wasps,-0.958
+341,Parasitic Wasps,-0.434
+342,Parasitic Wasps,-0.109
+343,Parasitic Wasps,-1.128
+344,Parasitic Wasps,0.751
+345,Parasitic Wasps,0.177
+346,Parasitic Wasps,-1.308
+347,Parasitic Wasps,-0.791
+348,Parasitic Wasps,0.18
+349,Parasitic Wasps,-0.565
+350,Parasitic Wasps,-0.62
+351,Parasitic Wasps,0
+352,Parasitic Wasps,-1.456
+353,Parasitic Wasps,-0.65
+354,Parasitic Wasps,0.279
+355,Parasitic Wasps,0
+356,Parasitic Wasps,1.227
+357,Parasitic Wasps,-1.855
+358,Parasitic Wasps,0.365
+359,Parasitic Wasps,-0.449
+360,Parasitic Wasps,0
+361,Parasitic Wasps,0
+362,Parasitic Wasps,-0.359
+363,Parasitic Wasps,0
+364,Parasitic Wasps,0
+365,Parasitic Wasps,-0.14
+366,Parasitic Wasps,-0.158
+367,Parasitic Wasps,-0.982
+368,Parasitic Wasps,0.444
+369,Parasitic Wasps,0.119
+370,Parasitic Wasps,0.23
+371,Parasitic Wasps,-0.648
+372,Parasitic Wasps,0.47
+373,Parasitic Wasps,0.119
+374,Parasitic Wasps,-0.185
+375,Parasitic Wasps,0.236
+376,Parasitic Wasps,0
+377,Parasitic Wasps,-1.296
+378,Parasitic Wasps,0
+379,Parasitic Wasps,0
+380,Parasitic Wasps,-0.605
+381,Parasitic Wasps,0
+382,Parasitic Wasps,0
+383,Parasitic Wasps,-0.212
+384,Parasitic Wasps,-0.98
+385,Parasitic Wasps,-0.416
+386,Parasitic Wasps,-0.667
+387,Parasitic Wasps,-1.153
+388,Parasitic Wasps,0
+389,Parasitic Wasps,0.682
+390,Parasitic Wasps,0
+391,Parasitic Wasps,0
+392,Parasitic Wasps,1.006
+393,Parasitic Wasps,-1.21
+394,Parasitic Wasps,-1.312
+395,Parasitic Wasps,-0.946
+396,Parasitic Wasps,0
+397,Parasitic Wasps,-0.862
+398,Parasitic Wasps,-0.154
+399,Parasitic Wasps,-0.823
+400,Parasitic Wasps,0
+300,Termites,0
+301,Termites,0.04
+302,Termites,-0.472
+303,Termites,0.077
+304,Termites,0.046
+305,Termites,0.138
+306,Termites,0.039
+307,Termites,0.039
+308,Termites,0.165
+309,Termites,0
+310,Termites,0
+311,Termites,0.086
+312,Termites,0
+313,Termites,0
+314,Termites,0.102
+315,Termites,-0.203
+316,Termites,0.171
+317,Termites,0.156
+318,Termites,0
+319,Termites,0
+320,Termites,0.177
+321,Termites,0.145
+322,Termites,0.092
+323,Termites,0.168
+324,Termites,0
+325,Termites,0.057
+326,Termites,-0.013
+327,Termites,0.19
+328,Termites,0.154
+329,Termites,0.14
+330,Termites,0.216
+331,Termites,0.096
+332,Termites,-0.16
+333,Termites,0.106
+334,Termites,0.057
+335,Termites,0.166
+336,Termites,0.135
+337,Termites,0.108
+338,Termites,0.04
+339,Termites,0.238
+340,Termites,0.193
+341,Termites,0.123
+342,Termites,0.186
+343,Termites,0.15
+344,Termites,0.058
+345,Termites,0.057
+346,Termites,0.056
+347,Termites,-0.214
+348,Termites,0.058
+349,Termites,0.114
+350,Termites,0.175
+351,Termites,0
+352,Termites,0.123
+353,Termites,-0.222
+354,Termites,0.085
+355,Termites,0
+356,Termites,0.152
+357,Termites,0.204
+358,Termites,0.107
+359,Termites,0.164
+360,Termites,0
+361,Termites,0
+362,Termites,0.126
+363,Termites,0
+364,Termites,0
+365,Termites,0.194
+366,Termites,0.222
+367,Termites,0.171
+368,Termites,0.064
+369,Termites,0.039
+370,Termites,0.072
+371,Termites,0.077
+372,Termites,0.129
+373,Termites,0.039
+374,Termites,0.117
+375,Termites,0.192
+376,Termites,0
+377,Termites,0.243
+378,Termites,0
+379,Termites,0
+380,Termites,0.164
+381,Termites,0
+382,Termites,0
+383,Termites,0.138
+384,Termites,0.166
+385,Termites,0.221
+386,Termites,0.194
+387,Termites,0.142
+388,Termites,0
+389,Termites,0.168
+390,Termites,0
+391,Termites,0
+392,Termites,0.05
+393,Termites,0.17
+394,Termites,0.175
+395,Termites,0.203
+396,Termites,0
+397,Termites,0.107
+398,Termites,0.159
+399,Termites,0.105
+400,Termites,0
