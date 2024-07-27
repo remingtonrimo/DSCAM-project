@@ -1,5 +1,5 @@
 # DSCAM-project
-# Density trees & dating phylogenies
+## Density trees & dating phylogenies
 - Collect sequences & construct the phylogeny
 - Sample 100 trees from the generated trees file and plot those as a density tree using the DSCAM-project/FigS1.R script
 - Date the mitochondrial and DSCAM1 phylogenies using the DSCAM-project/dating_phylogenies.R script
