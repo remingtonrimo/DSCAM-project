@@ -9,5 +9,5 @@
 ## phyloP analysis
 - Conduct a base by base likelihood ratio test using phyloP using bash. Check DSCAM-project/phyloP/workflow for code used.
 - Use DSCAM-project/phyloP/Fig2 & DSCAM-project/phyloP/Fig3 to analyze the phyloP scores.
-## Ancestral Character State reconstruction
+## Ancestral character state reconstruction
 - Use DSCAM-project/phyloP/ancestral_character_states/Fig4 to reconstruct the ancestral character states for sociality.
