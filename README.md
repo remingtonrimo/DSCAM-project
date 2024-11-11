@@ -1,11 +1,14 @@
 # DSCAM-project
-## Density trees & dating phylogenies
-- Collect sequences & construct the phylogeny
-- Sample 100 trees from the generated trees file and plot those as a density tree using the DSCAM-project/densitytree/*FigS1.R* script
-- Date the mitochondrial and DSCAM1 phylogenies using the DSCAM-project/*dating_phylogenies.R* script
-## Comparing mitochondrial and DSCAM1 phylogenies
+## Collect sequences
+- First we collect all the data available on NCBI for DSCAM1
+- Grab the entire gene region, and then cut the introns out
+- See DSCAM-project/parameters/data_collection.R for the script
+## Dating phylogeny
+- Date the root, Ischnura elegans, on the DSCAM1 phylogeny at 401 mya
+- DSCAM-project/*dating_phylogenies.R* script
+## Comparing DSCAM1 phylogeny to TimeTree phylogeny
 - Create a cophylo using DSCAM-project/chronogram/*FigS2.R* script to detemerine discordant species, remove species from chronogram.
-- Overlay phylogenies on top of each other for visualization. Subtract mitochondrial branch lengths from DSCAM1 branch lengths. Use DSCAM-project/chronogram/*Fig1.R* to make a heatmap for these values.
+- Overlay phylogenies on top of each other for visualization. Subtract the TimeTree branch lengths from DSCAM1 branch lengths. Use DSCAM-project/chronogram/*Fig1.R* to make a heatmap for these values.
 ## phyloP analysis
 - Conduct a base by base likelihood ratio test using phyloP using bash. Check DSCAM-project/phyloP/*workflow.txt* for code used.
 - Use DSCAM-project/phyloP/*Fig2* & DSCAM-project/phyloP/*Fig3* to analyze the phyloP scores.
