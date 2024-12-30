@@ -1,1 +1,1 @@
-Here are the old files for the initial submission of my manuscript for the dscam project. Some of the files here are no longer included with the main files as they were removed from the project. Other files included in main were edited from their original files here.
+Here are the old files for the initial submission of my manuscript for the dscam project.
