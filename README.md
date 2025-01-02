@@ -14,12 +14,11 @@
 - Apply same parameters to exon trees
 ## Dating phylogeny
 - Date the root, Ischnura elegans, on the DSCAM1 phylogeny at 401 mya
-- DSCAM-project/*dating_phylogenies.R* script
+- DSCAM-project/R-files/*dating_phylogenies.R* script
 ## Comparing DSCAM1 phylogeny to TimeTree phylogeny
-- Create a cophylo using DSCAM-project/chronogram/*FigS2.R* script to detemerine discordant species, remove species from chronogram.
-- Overlay phylogenies on top of each other for visualization. Subtract the TimeTree branch lengths from DSCAM1 branch lengths. Use DSCAM-project/chronogram/*Fig1.R* to make a heatmap for these values.
+- Use DSCAM-project/R-files/*chronogram.R* for chronogram analysis between the species and gene trees
 ## Compare exon trees to overall gene tree
-- 
+- Use DSCAM-project/R-files/*exon_comparison.R* for chronogram analysis between the exon and gene trees
 ## phyloP analysis
-- Conduct a base by base likelihood ratio test using phyloP using bash. Check DSCAM-project/phyloP/*workflow.txt* for code used.
-- Use DSCAM-project/phyloP/*Fig2* & DSCAM-project/phyloP/*Fig3* to analyze the phyloP scores.
+- See DSCAM-project/R-files/*phyloP.R* to conduct the likelihood base-by-base test.
+- ### Note: *tree_doctor* function isn't available in the rPHAST package to label the interior nodes of the tree. Use dscam_named.mod for analysis.
