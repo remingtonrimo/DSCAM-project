@@ -21,4 +21,4 @@
 - Use DSCAM-project/R-files/*exon_comparison.R* for chronogram analysis between the exon and gene trees
 ## phyloP analysis
 - See DSCAM-project/R-files/*phyloP.R* to conduct the likelihood base-by-base test.
-- ### Note: *tree_doctor* function isn't available in the rPHAST package to label the interior nodes of the tree. Use dscam_named.mod for analysis.
+-  Note: *tree_doctor* function isn't available in the rPHAST package to label the interior nodes of the tree. Use dscam_named.mod for analysis.
