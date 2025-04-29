@@ -1,0 +1,315 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    beaulieu3 (AVX512, FMA3, 93 GB RAM)
+Command: /home/remingtonexe/tree_programs/iqtree-2.3.6-Linux-intel/bin/iqtree2 -s dscam1_align.nex -m GTR+I+G -o Ischnura_elegans
+Seed:    232898 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 11 11:40:46 2024
+Kernel:  AVX+FMA - 1 threads (96 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 96 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file dscam1_align.nex ... Nexus format detected
+Alignment has 192 sequences with 9648 columns, 8281 distinct patterns
+7499 parsimony-informative, 667 singleton sites, 1482 constant sites
+                                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00515838 secs using 97.18% CPU
+   1  Anopheles_gambiae                         8.40%    failed      0.00%
+   2  Drosophila_virilis                        2.69%    failed      0.00%
+   3  Drosophila_pseudoobscura                 10.14%    failed      0.00%
+   4  Planococcus_citri                         3.47%    failed      0.00%
+   5  Schistocerca_gregaria                    22.45%    failed      0.00%
+   6  Leptopilina_boulardi                      6.52%    failed      0.00%
+   7  Leptopilina_heterotoma                    8.57%    failed      0.00%
+   8  Tenebrio_molitor                          5.08%    failed      0.00%
+   9  Ostrinia_nubilalis                       33.61%    failed      0.00%
+  10  Bombus_pascuorum                          1.00%    failed      0.00%
+  11  Cylas_formicarius                         8.00%    failed      0.00%
+  12  Anastrepha_obliqua                       29.39%    passed     34.89%
+  13  Anastrepha_ludens                        27.20%    passed     51.20%
+  14  Anopheles_funestus                        3.94%    failed      0.20%
+  15  Vespa_crabro                              4.31%    failed      0.06%
+  16  Homalodisca_vitripennis                   8.74%    passed     34.40%
+  17  Ischnura_elegans                          4.39%    failed      0.00%
+  18  Cotesia_glomerata                         6.28%    failed      0.00%
+  19  Pararge_aegeria                          35.46%    failed      0.00%
+  20  Rhagoletis_pomonella                      2.21%    failed      0.16%
+  21  Megalopta_genalis                         2.55%    failed      0.00%
+  22  Photinus_pyralis                          5.20%    failed      0.16%
+  23  Trichoplusia_ni                           7.04%    failed      0.03%
+  24  Leptinotarsa_decemlineata                11.33%    failed      0.00%
+  25  Ooceraea_biroi                            8.47%    failed      0.00%
+  26  Ceratitis_capitata                       36.27%    failed      0.01%
+  27  Aedes_aegypti                             6.53%    failed      0.00%
+  28  Daktulosphaira_vitifoliae                11.30%    failed      0.00%
+  29  Frieseomelitta_varia                      9.27%    failed      0.00%
+  30  Megachile_rotundata                       7.00%    failed      0.00%
+  31  Apis_florea                              10.93%    failed      0.00%
+  32  Bombus_impatiens                          4.29%    failed      0.00%
+  33  Ctenocephalides_felis                    42.97%    failed      0.00%
+  34  Drosophila_erecta                        12.10%    failed      0.00%
+  35  Prorops_nasuta                           30.09%    passed     33.24%
+  36  Euwallacea_similis                        9.09%    failed      0.00%
+  37  Dalotia_coriaria                          3.58%    failed      0.00%
+  38  Zophobas_morio                            9.04%    failed      0.00%
+  39  Lutzomyia_longipalpis                    15.61%    failed      0.00%
+  40  Cataglyphis_hispanica                     7.99%    failed      2.31%
+  41  Apis_laboriosa                           10.63%    failed      0.00%
+  42  Bombus_flavifrons                         5.49%    failed      0.00%
+  43  Battus_philenor                          13.27%    failed      0.61%
+  44  Drosophila_tropicalis                    17.52%    failed      0.01%
+  45  Eurosta_solidaginis                      11.98%    failed      0.00%
+  46  Euwallacea_fornicatus                     6.64%    failed      0.18%
+  47  Ochlerotatus_camptorhynchus              36.00%    failed      0.00%
+  48  Drosophila_montana                       26.89%    failed      0.00%
+  49  Diachasmimorpha_longicaudata             24.90%    passed      6.30%
+  50  Culicoides_brevitarsis                   38.19%    failed      0.00%
+  51  Cydia_splendana                           5.88%    failed      0.00%
+  52  Cydia_strobilella                        11.64%    failed      0.00%
+  53  Cydia_fagiglandana                       31.75%    failed      0.00%
+  54  Cydia_amplana                            12.17%    failed      0.00%
+  55  Bacillus_rossius_redtenbacheri           33.81%    failed      0.00%
+  56  Armigeres_subalbatus                     37.63%    failed      0.00%
+  57  Drosophila_sulfurigaster_albostrigata     9.54%    failed      0.00%
+  58  Cydia_pomonella                          10.29%    failed      0.00%
+  59  Metopolophium_dirhodum                    6.52%    failed      0.00%
+  60  Rhopalosiphum_padi                        8.36%    failed      0.00%
+  61  Drosophila_nasuta                         7.45%    failed      0.00%
+  62  Phlebotomus_argentipes                   40.94%    failed      0.00%
+  63  Achroia_grisella                          2.55%    failed      0.00%
+  64  Topomyia_yanbarensis                      7.32%    passed     45.89%
+  65  Phymastichus_coffea                      15.59%    passed     11.76%
+  66  Malaya_genurostris                        7.59%    passed     18.33%
+  67  Anopheles_ziemanni                       39.15%    failed      0.00%
+  68  Anopheles_coustani                       41.92%    failed      0.00%
+  69  Anopheles_bellator                       40.17%    failed      0.00%
+  70  Diorhabda_carinulata                      9.33%    failed      0.00%
+  71  Microplitis_mediator                      5.95%    failed      0.00%
+  72  Diorhabda_sublineata                     27.60%    failed      0.00%
+  73  Eupeodes_corollae                        17.93%    failed      0.00%
+  74  Episyrphus_balteatus                      1.71%    failed      0.00%
+  75  Phlebotomus_papatasi                     23.08%    failed      0.00%
+  76  Toxorhynchites_rutilus_septentrionalis    7.34%    passed     34.30%
+  77  Uranotaenia_lowii                         7.42%    failed      2.42%
+  78  Wyeomyia_smithii                          8.59%    passed     57.44%
+  79  Condylostylus_longicornis                 3.48%    failed      0.00%
+  80  Sitodiplosis_mosellana                    4.46%    failed      0.00%
+  81  Macrosteles_quadrilineatus                8.54%    passed     31.80%
+  82  Hylaeus_anthracinus                      26.54%    failed      0.00%
+  83  Hylaeus_volcanicus                       24.77%    failed      0.00%
+  84  Sabethes_cyaneus                         41.12%    failed      0.33%
+  85  Anopheles_nili                           39.34%    failed      0.16%
+  86  Anopheles_marshallii                     38.99%    failed      0.00%
+  87  Drosophila_gunungcola                     2.02%    failed      0.00%
+  88  Vespula_vulgaris                          8.71%    failed      2.69%
+  89  Leptidea_sinapis                         28.43%    failed      0.00%
+  90  Bombus_affinis                            4.02%    failed      0.00%
+  91  Bombus_huntii                             4.94%    failed      0.00%
+  92  Adelges_cooleyi                           4.31%    failed      0.00%
+  93  Nymphalis_io                             19.48%    failed      0.00%
+  94  Bactrocera_neohumeralis                  38.98%    failed      0.24%
+  95  Anthonomus_grandis_grandis                4.35%    failed      0.87%
+  96  Anopheles_aquasalis                      36.74%    failed      0.00%
+  97  Anopheles_maculipalpis                   11.04%    failed      0.60%
+  98  Schistocerca_serialis_cubense            40.51%    failed      0.00%
+  99  Pectinophora_gossypiella                 10.48%    failed      3.59%
+ 100  Schistocerca_nitens                      38.99%    failed      0.00%
+ 101  Schistocerca_cancellata                  38.14%    failed      0.00%
+ 102  Anopheles_darlingi                       32.04%    failed      0.00%
+ 103  Leguminivora_glycinivorella               9.19%    failed      0.00%
+ 104  Vanessa_atalanta                         10.55%    failed      0.94%
+ 105  Pieris_napi                               4.95%    failed      0.02%
+ 106  Vespa_velutina                            1.62%    failed      0.02%
+ 107  Schistocerca_piceifrons                  38.51%    failed      0.00%
+ 108  Helicoverpa_zea                          10.01%    failed      0.19%
+ 109  Schistocerca_americana                   39.89%    failed      0.00%
+ 110  Vanessa_cardui                            5.53%    failed      0.00%
+ 111  Diprion_similis                          16.11%    failed      0.00%
+ 112  Neodiprion_fabricii                       5.93%    failed      0.00%
+ 113  Pieris_brassicae                         41.24%    failed      0.03%
+ 114  Colias_croceus                           41.00%    failed      0.00%
+ 115  Harmonia_axyridis                         4.19%    failed      0.00%
+ 116  Melitaea_cinxia                          42.31%    failed      0.00%
+ 117  Coccinella_septempunctata                 5.18%    failed      0.00%
+ 118  Chrysoperla_carnea                       41.41%    failed      0.00%
+ 119  Tribolium_madens                          4.35%    failed      0.00%
+ 120  Aphidius_gifuensis                        7.74%    failed      0.00%
+ 121  Vespula_pensylvanica                      4.78%    failed      1.64%
+ 122  Drosophila_teissieri                     39.74%    failed      0.00%
+ 123  Bombus_pyrosoma                           1.95%    failed      0.00%
+ 124  Polistes_fuscatus                         3.85%    failed      0.01%
+ 125  Colletes_gigas                           40.68%    failed      0.00%
+ 126  Anopheles_merus                          10.57%    failed      0.00%
+ 127  Anopheles_arabiensis                      5.67%    failed      0.00%
+ 128  Bactrocera_tryoni                        22.51%    failed      0.02%
+ 129  Zerene_cesonia                           15.10%    failed      0.61%
+ 130  Teleopsis_dalmanni                       42.83%    failed      0.00%
+ 131  Hermetia_illucens                        20.16%    failed      0.00%
+ 132  Glossina_fuscipes                        26.07%    failed      0.00%
+ 133  Drosophila_subpulchrella                  5.56%    failed      0.00%
+ 134  Bradysia_coprophila                       6.45%    failed      0.00%
+ 135  Anopheles_stephensi                       7.75%    failed      0.00%
+ 136  Anopheles_albimanus                      11.92%    failed      0.00%
+ 137  Vespa_mandarinia                          8.33%    failed      0.07%
+ 138  Drosophila_subobscura                     8.43%    failed      0.00%
+ 139  Drosophila_innubila                      39.82%    failed      0.00%
+ 140  Thrips_palmi                              5.17%    failed      0.00%
+ 141  Osmia_lignaria                            3.32%    failed      0.00%
+ 142  Bombus_vosnesenskii                       3.51%    failed      0.00%
+ 143  Bombus_bifarius                           6.27%    failed      0.00%
+ 144  Bombus_vancouverensis_nearcticus          3.51%    failed      0.00%
+ 145  Drosophila_mauritiana                     1.87%    failed      0.00%
+ 146  Odontomachus_brunneus                     6.93%    failed      0.00%
+ 147  Nomia_melanderi                          11.13%    failed      0.00%
+ 148  Contarinia_nasturtii                     19.04%    failed      0.00%
+ 149  Sitophilus_oryzae                        40.69%    failed      1.06%
+ 150  Drosophila_novamexicana                  38.08%    failed      0.00%
+ 151  Scaptodrosophila_lebanonensis            29.88%    failed      0.00%
+ 152  Formica_exsecta                          24.21%    passed     42.26%
+ 153  Nylanderia_fulva                          7.11%    failed      0.01%
+ 154  Ostrinia_furnacalis                       5.52%    failed      0.00%
+ 155  Bombyx_mandarina                         41.08%    failed      0.58%
+ 156  Hyposmocoma_kahamanoa                    19.55%    passed      9.82%
+ 157  Sipha_flava                               9.28%    failed      0.00%
+ 158  Melanaphis_sacchari                       8.08%    failed      0.00%
+ 159  Temnothorax_curvispinosus                31.77%    failed      0.00%
+ 160  Onthophagus_taurus                        5.65%    failed      0.00%
+ 161  Spodoptera_litura                         4.27%    failed      0.48%
+ 162  Myzus_persicae                            4.58%    failed      0.00%
+ 163  Zootermopsis_nevadensis                  23.48%    failed      0.00%
+ 164  Drosophila_serrata                       40.88%    failed      0.00%
+ 165  Pseudomyrmex_gracilis                     2.45%    failed      0.00%
+ 166  Bemisia_tabaci                           40.00%    failed      0.00%
+ 167  Bactrocera_latifrons                     21.89%    failed      0.00%
+ 168  Cyphomyrmex_costatus                     32.46%    passed     39.67%
+ 169  Trachymyrmex_cornetzi                    40.10%    passed     59.87%
+ 170  Trachymyrmex_septentrionalis             40.10%    passed     82.59%
+ 171  Trachymyrmex_zeteki                      39.57%    passed     59.84%
+ 172  Atta_colombica                           30.17%    passed     60.37%
+ 173  Drosophila_arizonae                       5.71%    failed      0.00%
+ 174  Habropoda_laboriosa                      41.09%    failed      0.00%
+ 175  Nicrophorus_vespilloides                  2.28%    failed      0.00%
+ 176  Eufriesea_mexicana                       30.24%    failed      0.00%
+ 177  Rhagoletis_zephyria                       2.83%    failed      0.07%
+ 178  Cephus_cinctus                            3.86%    failed      0.00%
+ 179  Dufourea_novaeangliae                    42.46%    failed      0.00%
+ 180  Diuraphis_noxia                          46.57%    failed      0.00%
+ 181  Polistes_dominula                         7.18%    failed      0.00%
+ 182  Polistes_canadensis                       6.22%    failed      0.01%
+ 183  Dinoponera_quadriceps                    40.35%    failed      0.00%
+ 184  Atta_cephalotes                          40.14%    passed     45.03%
+ 185  Vollenhovia_emeryi                       39.43%    failed      0.00%
+ 186  Wasmannia_auropunctata                   47.03%    failed      0.00%
+ 187  Pogonomyrmex_barbatus                    15.60%    passed     60.09%
+ 188  Ceratosolen_solmsi_marchali              40.42%    failed      4.92%
+ 189  Acromyrmex_echinatior                    39.78%    passed     85.00%
+ 190  Apis_dorsata                             43.38%    failed      0.00%
+ 191  Culex_quinquefasciatus                    9.93%    failed      0.00%
+ 192  Drosophila_guanche                        8.50%    failed      0.00%
+****  TOTAL                                    18.07%  171 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.284 seconds
+
+NOTE: 206 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.174
+Init pinv, alpha: 0.017, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.141
+Init pinv, alpha: 0.034, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.125
+Init pinv, alpha: 0.051, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.125
+Init pinv, alpha: 0.068, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.119
+Init pinv, alpha: 0.085, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.127
+Init pinv, alpha: 0.102, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.156
+Init pinv, alpha: 0.119, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.162
+Init pinv, alpha: 0.137, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.173
+Init pinv, alpha: 0.154, 1.000 / Estimate: 0.147, 0.786 / LogL: -667232.177
+Optimal pinv,alpha: 0.147, 0.786 / LogL: -667232.119
+
+Parameters optimization took 172.732 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.612775 secs using 99.72% CPU
+Computing ML distances took 0.637154 sec (of wall-clock time) 0.619379 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.00316056 secs using 209% CPU
+Computing RapidNJ tree took 0.013445 sec (of wall-clock time) 0.025054 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -678416.393
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 30.598 second
+Computing log-likelihood of 98 initial trees ... 42.825 seconds
+Current best score: -667232.119
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -666399.043
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -666195.869
+Iteration 10 / LogL: -666274.286 / Time: 0h:5m:14s
+Iteration 20 / LogL: -666381.145 / Time: 0h:6m:7s
+Finish initializing candidate tree set (18)
+Current best tree score: -666195.869 / CPU time: 189.176
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -666178.368
+Iteration 30 / LogL: -666178.368 / Time: 0h:7m:23s (0h:25m:29s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -666169.727
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 33: -666140.310
+Iteration 40 / LogL: -666198.052 / Time: 0h:8m:39s (0h:20m:37s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 48: -666134.714
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -666127.691
+Iteration 50 / LogL: -666127.691 / Time: 0h:9m:58s (0h:20m:19s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 60: -666115.755
+Iteration 60 / LogL: -666115.755 / Time: 0h:11m:10s (0h:18m:55s left)
+Iteration 70 / LogL: -666147.764 / Time: 0h:12m:20s (0h:16m:5s left)
+Iteration 80 / LogL: -666116.348 / Time: 0h:13m:31s (0h:13m:41s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -666114.049
+Iteration 90 / LogL: -666117.392 / Time: 0h:14m:45s (0h:11m:36s left)
+Iteration 100 / LogL: -666135.773 / Time: 0h:15m:52s (0h:9m:37s left)
+Iteration 110 / LogL: -666114.825 / Time: 0h:17m:3s (0h:7m:49s left)
+Iteration 120 / LogL: -666115.834 / Time: 0h:18m:10s (0h:6m:6s left)
+Iteration 130 / LogL: -666114.243 / Time: 0h:19m:19s (0h:4m:29s left)
+Iteration 140 / LogL: -666177.713 / Time: 0h:20m:26s (0h:2m:56s left)
+Iteration 150 / LogL: -666312.569 / Time: 0h:21m:33s (0h:1m:26s left)
+Iteration 160 / LogL: -666133.289 / Time: 0h:22m:38s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 161 ITERATIONS / Time: 0h:22m:44s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -666114.049
+Optimal log-likelihood: -666114.048
+Rate parameters:  A-C: 1.39670  A-G: 3.68097  A-T: 1.67651  C-G: 1.23730  C-T: 5.35802  G-T: 1.00000
+Base frequencies:  A: 0.271  C: 0.251  G: 0.243  T: 0.235
+Proportion of invariable sites: 0.147
+Gamma shape alpha: 0.782
+Parameters optimization took 1 rounds (1.640 sec)
+BEST SCORE FOUND : -666114.048
+Total tree length: 35.320
+
+Total number of iterations: 161
+CPU time used for tree search: 1180.680 sec (0h:19m:40s)
+Wall-clock time used for tree search: 1186.658 sec (0h:19m:46s)
+Total CPU time used: 1359.915 sec (0h:22m:39s)
+Total wall-clock time used: 1366.382 sec (0h:22m:46s)
+
+Analysis results written to: 
+  IQ-TREE report:                dscam1_align.nex.iqtree
+  Maximum-likelihood tree:       dscam1_align.nex.treefile
+  Likelihood distances:          dscam1_align.nex.mldist
+  Screen log file:               dscam1_align.nex.log
+
+Date and Time: Mon Nov 11 12:03:33 2024
