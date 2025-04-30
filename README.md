@@ -22,4 +22,5 @@
 ## phyloP analysis
 - See DSCAM-project/R-files/*phyloP.R* to conduct the likelihood base-by-base test.
 
-Note: *tree_doctor* function isn't available in the rPHAST package to label the interior nodes of the tree. Use dscam_named.mod for analysis.
+Notes: *tree_doctor* function isn't available in the rPHAST package to label the interior nodes of the tree. Use dscam_named.mod for analysis.
+Any files not present here due size limitations will be available on zenodo.
